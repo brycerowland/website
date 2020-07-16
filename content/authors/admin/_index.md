@@ -25,7 +25,7 @@ social:
   link: '#contact'
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/brycerowland
 superuser: true
 title: Bryce Rowland
 user_groups:
