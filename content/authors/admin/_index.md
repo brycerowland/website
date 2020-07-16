@@ -13,7 +13,7 @@ education:
 email: "bryce.rowland@unc.edu"
 interests:
 - Genetic analyses in admixed populations
-- TWAS
+- Transcriptome-wide association studies
 - Method development for Hi-C data
 organizations:
 - name: University of North Carolina at Chapel Hill
