@@ -1,11 +1,11 @@
 ---
 date: "2016-04-27T00:00:00Z"
-external_link: http://example.org
+external_link: https://github.com/brycerowland/thundeR
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: Overview of THUNDER method.
   focal_point: Smart
-summary: An example of linking directly to an external project website using `external_link`.
+summary: THUNDER estimates cell type proportions in bulk Hi-C data. 
 tags:
-- Demo
-title: External Project
+- Hi-C
+title: THUNDER
 ---
